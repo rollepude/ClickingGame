@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/pelaaja1.unity
+    guid: 12b08651f0c3ff44195d17e9d54cbad1
+  - enabled: 1
+    path: Assets/Scenes/pelaaja2.unity
+    guid: 0abfb510f5f60e64ab1317b3ec9d0a7f
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: b6ce8f1862412734fb6679124fecd805
+  - enabled: 1
+    path: "Assets/Scenes/h\xE4vi\xF61.unity"
+    guid: 9d1fb8e702e59e349a0687021e36ce9e
+  - enabled: 1
+    path: "Assets/Scenes/h\xE4vi\xF62.unity"
+    guid: fcc8930e75a36cf4589a86e2578f3381
+  m_configObjects: {}
